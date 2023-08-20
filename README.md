@@ -3,6 +3,6 @@ In this project we are going to build a simple game application that is a mixtur
 ## 📝Task
 we are required to write a C++ code for this Game. we must use object-oriented programming to implement this application.
 
-## Screenshots
+## 📸Screenshots
 
 ![App Screenshot](https://github.com/AhmedMosleh/Snake-Ladder-Monopoly-Game/blob/main/images/CMPN103-Project-Fall2021-Phase2.jpg)
